@@ -1,0 +1,8 @@
+# TexDiag
+
+Sistema experto para el diagnóstico de defectos en máquinas de coser rectas
+industriales. Curso de Sistema Inteligente, UNJFSC, 2026.
+
+- Motor de inferencia: CLIPS (reglas en `texdiag.clp`)
+- Interfaz web: Streamlit
+- Ejecutar en local: `pip install -r requirements.txt` y `streamlit run app.py`
